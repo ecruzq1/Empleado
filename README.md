@@ -1,5 +1,4 @@
 # Empleado
-Empleado
 <h1>Realizar un proyecto que tenga la clase fecha(dia, mes , anio)  
 Empleado(nombre,apellidos,fecha_ingreso, fecha_nacimiento, salario)  
 instanciar la clase Empleado en el main  sacar cual es el empleado con mayor salario y el mas antiguo
@@ -11,7 +10,7 @@ instanciar la clase Empleado en el main  sacar cual es el empleado con mayor sal
 
 <h3>Link Clases</h3>
 
-[Clases](https://github.com/ecruzq1/Verificador-Cedula/blob/master/src/cedula/Cedula.java)
+[Clases](https://github.com/ecruzq1/Empleado/tree/master/src)
 
 
 <h1>AUTOR</h1>
